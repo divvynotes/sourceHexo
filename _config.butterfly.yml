@@ -91,7 +91,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://raw.githubusercontent.com/divvynotes/images/main/index-defaultop.jpg
+index_img: https://poppin.imgix.net/products/2020/poppin_coast_lagoon_work_happy_1-subjec_notebook_PDP_01.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://raw.githubusercontent.com/divvynotes/images/main/index-defaultop.jpg
