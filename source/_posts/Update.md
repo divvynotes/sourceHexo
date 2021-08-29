@@ -7,4 +7,4 @@ tags:
 
 This is Julia's tester post.
 
-![First photo](Unknown.jpg)
+![First photo](https://github.com/divvynotes/images/blob/main/Unknown.jpeg)
