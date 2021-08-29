@@ -7,4 +7,4 @@ tags:
 
 This is Julia's tester post.
 
-![First photo](Unknown.jpeg)
+![First photo](Unknown.jpg)
