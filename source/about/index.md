@@ -8,18 +8,18 @@ date: 2021-08-29 13:08:02
 # Divvynotes: a new way of sharing notes
 # Work in progress
 
-Designing and building the layout of Divvynotes.
-![first photo](https://github.com/divvynotes/images/blob/main/5d3f2786-1764-4fbc-8acf-11a84bc98a8e.jpg)
+Designing and building the layout of Divvynotes (mostly through online meetings.)
+![first photo](https://raw.githubusercontent.com/divvynotes/images/main/5d3f2786-1764-4fbc-8acf-11a84bc98a8e.jpg)
 
 Starting to develop the code, programming it with Github.
-![second photo](https://github.com/divvynotes/images/blob/main/6725c26d-d8a0-4047-905e-4a3287ea9d80.jpg)
+![second photo](https://raw.githubusercontent.com/divvynotes/images/main/6725c26d-d8a0-4047-905e-4a3287ea9d80.jpg)
 
-More programming, always adding touches.
-![third photo](https://github.com/divvynotes/images/blob/main/8b429bf5-5fad-469e-9020-65020b6d81f8.jpg)
+More programming, always adding new touches.
+![third photo](https://raw.githubusercontent.com/divvynotes/images/main/8b429bf5-5fad-469e-9020-65020b6d81f8.jpg)
 
 Discussing and purchasing our own domain.
-![fourth photo](https://github.com/divvynotes/images/blob/main/d073b549-cbab-4c30-8127-eee4dda4e9f6.jpg)
+![fourth photo](https://raw.githubusercontent.com/divvynotes/images/main/d073b549-cbab-4c30-8127-eee4dda4e9f6.jpg)
 
 Editing the website to make it look more visually appealing.
-![fifth photo](https://github.com/divvynotes/images/blob/main/0d2ef68b-4726-4e2e-b4a2-8354b798d980.jpg)
+![fifth photo](https://raw.githubusercontent.com/divvynotes/images/main/0d2ef68b-4726-4e2e-b4a2-8354b798d980.jpg)
 
