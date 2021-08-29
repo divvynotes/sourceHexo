@@ -1,0 +1,7 @@
+---
+title: about
+date: 2021-08-29 13:08:02
+---
+
+GUYS I FINALY FOUND OUT HOW TO ADD THE ABOUT PAGE
+
