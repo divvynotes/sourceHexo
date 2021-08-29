@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Divvynotes
 subtitle: ''
-description: ''
+description: 'Welcome to the Divvynotes blog!'
 keywords:
-author: John Doe
+author: Divvynotes
 language: en
 timezone: ''
 
