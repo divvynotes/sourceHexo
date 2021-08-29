@@ -7,4 +7,4 @@ tags:
 
 This is Julia's tester post.
 
-/Users/juliaguo/Desktop/Unknown.jpeg
+![First photo](Unknown.jpeg)
