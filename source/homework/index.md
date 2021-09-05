@@ -7,6 +7,7 @@ tags:
 
 Julia: Finish HW record page (this) and write content/make more posts for the website.
 Justin & Chris: Finish the introduction powerpoint to present to the parents.
+Justin: Keep working on improving the divvynotes github page.
 
 # 08/29/2021:
 
@@ -30,5 +31,4 @@ Justin only: Make your Github Page look nicer than the default.
 # 07/25/2021:
 
 Justin only: Research on what is a hybrid app?
-
 
