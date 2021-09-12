@@ -5,6 +5,11 @@ tags:
 ---
 # 09/11/2021:
 The parent presentation has been postponed to next class.
+Everyone: Get ready for the presentation next time. Practice the speech and continuing experimenting things for the website.
+Dont forget to upload a profile picture to the presentation.
+Justin: Try to add a gallery tab on the menu. This way we can add images to the tab.
+Julia: Complete all the posts, remove the test posts and learn from Justin on how to refresh the post thumbnail. Each week create at least one new post to add to the website (doesn't have to be very long.)
+Chris: Add a slide on how we were going to finance, our risks and competition, as well as how long it will take to pay back our sponsors.
 
 # 09/04/2021:
 
