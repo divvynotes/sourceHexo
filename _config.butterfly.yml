@@ -476,23 +476,23 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#e1c799"
+  main: "#e0b870"
   paginator: "#ba8425"
-  button_hover: "#1e3866"
-  text_selection: "#c9c871"
+  button_hover: "#4cc6cf"
+  text_selection: "#87a5e8"
   link_color: "#99a9bf"
   meta_color: "#858585"
   hr_color: "#A4D8FA"
   code_foreground: "#F47466"
   code_background: "rgba(27, 31, 35, .05)"
-  toc_color: "#00c4b6"
+  toc_color: "#ff8754"
   blockquote_padding_color: "#49b1f5"
   blockquote_background_color: "#49b1f5"
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默認top_img全屏，site_info在中間)
 # The position of site info, eg: 300px/300em/300rem/10% (主頁標題距離頂部距離)
-index_site_info_top:
+index_site_info_top: 
 # The height of top_img, eg: 300px/300em/300rem (主頁top_img高度)
 index_top_img_height:
 
@@ -505,7 +505,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: 
+background: url( https://i.loli.net/2019/09/09/5oDRkWVKctx2b6A.png )
 
 # Footer Background
 footer_bg: false
@@ -547,9 +547,9 @@ canvas_nest:
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
+  enable: true
   colorful: true # open particle animation (冒光特效)
-  shake: true #  open shake (抖動特效)
+  shake: false #  open shake (抖動特效)
   mobile: false
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
@@ -750,7 +750,7 @@ fancybox: true
 # mermaid
 # see https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: false
+  enable: true
   # built-in themes: default/forest/dark/neutral
   theme: default
 
