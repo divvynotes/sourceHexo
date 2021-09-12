@@ -3,6 +3,7 @@ layout: divvynotes
 title: Divvynotes startup funding
 date: 2021-08-29 15:43:38
 tags:
+cover: https://raw.githubusercontent.com/divvynotes/images/main/budget.jpg
 ---
 
 # Divvynotes startup funding
