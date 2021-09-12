@@ -1,5 +1,5 @@
 ---
-title: Update
+title: Our Schedule
 date: 2021-08-18 22:26:03
 tags: 
 
@@ -15,5 +15,3 @@ tags:
 6.) We purchased a domain in class through GoDaddy.com and made our website name official. Chris also experimented with logo designs.
 7.) In August, we finally established our own site and started to add our own details, posts, images, etc. to the website.
 8.) We are in the middle of creating a presentation to introduce our work and project to the parents. The workload has been split. Julia is to work mainly on creating new posts, Justin and Chris on the presentation while adding their own small details to the website.
-
-![First photo](https://github.com/divvynotes/images/blob/main/Unknown.jpeg?raw=true)
