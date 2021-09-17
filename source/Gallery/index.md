@@ -1,5 +1,5 @@
 ---
-title: gallery
+title: Gallery
 date: 2021-09-16 16:47:22
 ---
 
