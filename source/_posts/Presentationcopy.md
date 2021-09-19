@@ -4,7 +4,7 @@ date: 2021-08-18 22:26:03
 tags: 
 cover: https://raw.githubusercontent.com/divvynotes/images/main/Screen%20Shot%202021-09-18%20at%206.49.50%20PM.png
 ---
-This is a copy of oujr Google Slides Presentation to the Parents (Sept  18 2021)
+This is a copy of our Google Slides Presentation to the Parents (Sept  18 2021)
 ![1](https://raw.githubusercontent.com/divvynotes/images/main/Screen%20Shot%202021-09-18%20at%206.49.50%20PM.png)
 ![2](https://raw.githubusercontent.com/divvynotes/images/main/Screen%20Shot%202021-09-18%20at%206.50.14%20PM.png)
 ![3](https://raw.githubusercontent.com/divvynotes/images/main/Screen%20Shot%202021-09-18%20at%206.50.35%20PM.png)
