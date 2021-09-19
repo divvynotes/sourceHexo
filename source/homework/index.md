@@ -3,6 +3,12 @@ title: Homework Records
 date: 2021-09-04 16:01:08
 tags:
 ---
+# 09/18/2021:
+Julia: How to open a cooperation bank account and apply for a cooperation credit card. Choose 5-6 banks and finalize on one to register it with.
+Retake the copy of Divvynotes presentation so that there are no red lines. Update a copy of Justin's slideshow as well.
+Justin: Figure out how to work the gallery and how to link/publish videos on our channel.
+Chris: Gather all the information we need in order to register our cooperation in BC.
+
 # 09/11/2021:
 The parent presentation has been postponed to next class.
 Everyone: Get ready for the presentation next time. Practice the speech and continuing experimenting things for the website.
