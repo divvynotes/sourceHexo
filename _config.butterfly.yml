@@ -627,10 +627,10 @@ subtitle:
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
     - "Imagination is everything."
-    - "Creativity is contagious, pass it on."
+    - "Creativity is contagious&#44 pass it on."
     - "It's up to you."
     - "Prove them wrong."
-    - "Work smarter, not harder."
+    - "Work smarter&#44 not harder."
 
 
 # Loading Animation (加載動畫)
