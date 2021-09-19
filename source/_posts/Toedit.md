@@ -1,4 +1,10 @@
 ---
-title: Chris's test post
+title: Recap of September 11, 2021
+cover: https://raw.githubusercontent.com/divvynotes/images/main/Unknown%20copy.jpeg
 ---
-This is chris's test post.
+
+Firstly, we started class at 6:30. Danny had us present what we had done with homework as we usually do. Chris went, then Justin, then Julia.
+Everyone shared their screen and spent 5-10 minutes introducing their work. This is important because we want to see our weekly progress. This is also a time for us to ask questions and revisit the website.
+Secondly, Danny gave us 5 minutes to write the script on our presentation to the parents next week. He ended up giving us more than that so around 10-15 minutes.
+Thirdly, we presented as if we were in front of the parents, Chris went first then Justin then Julia. This took us around 30 minutes to finish.
+Afterwards, Danny gave us some tips and lastly, we went over our homework.

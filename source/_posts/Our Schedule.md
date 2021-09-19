@@ -2,7 +2,7 @@
 title: Our Schedule
 date: 2021-08-18 22:26:03
 tags: 
-
+cover: https://github.com/divvynotes/images/blob/main/Blog_ScheduleTweets_010520_1-min.jpg?raw=true
 ---
 
 ## What we have done:
