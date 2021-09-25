@@ -1,5 +1,5 @@
 ---
-title: Copy of our presentation
+title: Copy of Chris' presentation
 date: 2021-08-18 22:26:03
 tags: 
 cover: https://https://raw.githubusercontent.com/divvynotes/images/main/Screen%20Shot%202021-09-18%20at%209.26.17%20PM.png
