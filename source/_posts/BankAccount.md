@@ -27,3 +27,4 @@ In order to set up a cooperation credit card, you must regsiter your cooperation
 
 Here is an article that helps:
 https://www.finder.com/ca/how-to-get-a-business-credit-card
+
