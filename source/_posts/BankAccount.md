@@ -1,5 +1,5 @@
 ---
-title: How to: Business Bank Account
+title: How to - Business Bank Account
 cover: https://raw.githubusercontent.com/divvynotes/images/main/Screen%20Shot%202021-09-24%20at%208.13.31%20PM.png
 ---
 
@@ -12,7 +12,7 @@ The companies that I have chosen are: CIBC, BMO, and RBC because they clearly st
 
 You may check out this link for requirements for registration:
  https://www.canada.ca/en/services/business/start/register-with-gov.html
- 
+
 The summary of that article is that you need quite a lot of important documents and identification such as your EIN that is issued by the Internal Revenue Service and ID. You will additionally need to provide some key information and fill out forms
 
 Here is an additional article to help. It contains a list of links for further guidance on your cooperation: 
