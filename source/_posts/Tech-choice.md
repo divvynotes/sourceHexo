@@ -25,3 +25,13 @@ However, the only advantage of a local device is that running it is essentially 
 There are many cloud-based options that are suitable for scalable purposes, including Google Cloud, Microsoft Azure, and Amazon Web Services, that cover all of the problems aforementioned. It is even more cost-effective once we reach a certain threshold. 
 
 Thus, perhaps we could run the Divvynotes server on someone's desktop computer to start with, but it is **definitely** integral for us to move our server into the cloud if we intend to grow.
+
+# 3. Development
+
+I am not quite that familiar with actual doing things with cloud computing, nor do I have experience with create a server program that manages I/O from scratch, but I have a rough general idea of how we should develop.
+
+On the front-end, as we are creating a web interface as the primary method of interacting between clients and the server, we will almost 100% be using HTML, CSS, and JavaScript. I have no experience with creating a dynamic site, so perhaps there may be some additional tools we may have to use on the front-end.
+
+On the back-end however, the possibilities extend quite far. Again, I don't have real experience working with cloud-based computing, but I think we should use Java as our main language, in addition to using any additional tools like SQL maybe to assist with managing databases.
+
+An interesting thing to note is that if we would like to have the Divvynotes suggest user-specific content, we may need to create an AI from scratch, which would most likely mean the usage of Python? I emphasize again that this is mostly just me thinking from intuition, in addition to this being a goal that will be far in the future.
