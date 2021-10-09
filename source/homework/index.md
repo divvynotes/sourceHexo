@@ -3,7 +3,10 @@ title: Homework Records
 date: 2021-09-04 16:01:08
 tags:
 ---
-# 09/25/2021:
+#03/10/2021:
+Everyone: Complete half a worksheet assigned to them on the Google Doc titled **Professional business template.**
+
+#09/25/2021:
 
 Julia: What's the standard business requirement.
 Chris: Find out a business template/plan that fits us. 
