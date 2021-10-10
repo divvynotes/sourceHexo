@@ -3,6 +3,11 @@ title: Homework Records
 date: 2021-09-04 16:01:08
 tags:
 ---
+# 09/10/2021:
+Everyone:
+Because we are asking for $1500, we should get the result of how much percentage we should give (in shares) to the investors. In order to do that, we have to find a business model first.
+
+
 # 03/10/2021:
 Everyone: Complete half a worksheet assigned to them on the Google Doc titled **Professional business template.**
 
