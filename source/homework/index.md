@@ -3,7 +3,14 @@ title: Homework Records
 date: 2021-09-04 16:01:08
 tags:
 ---
+# 17/10/2021:
+
+Chris and Justin: write the contract, including any terms that we want on it.
+
+Julia: get more information on depositing the money we acquire from our investors.
+
 # 09/10/2021:
+
 Everyone:
 Because we are asking for $1500, we should get the result of how much percentage we should give (in shares) to the investors. In order to do that, we have to find a business model first.
 
