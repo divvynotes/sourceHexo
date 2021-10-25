@@ -3,6 +3,12 @@ title: Homework Records
 date: 2021-09-04 16:01:08
 tags:
 ---
+# 10/24/2021:
+
+Justin: research additional Shopify or Wordpress features that match our business model (take a look at Disputo, and BuddyBoss on WordPress)
+
+Chris: Research on Wix for purposes similar to Justin's work
+
 # 17/10/2021:
 
 Chris and Justin: write the contract, including any terms that we want on it.
