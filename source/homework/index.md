@@ -3,6 +3,14 @@ title: Homework Records
 date: 2021-09-04 16:01:08
 tags:
 ---
+
+
+# 10/31/2021:
+
+Everyone: meet together and figure out some things about our WordPress site. Get it to work and customize it to some basic extent.
+
+Julia: finish up bank registration.
+
 # 10/24/2021:
 
 Justin: research additional Shopify or Wordpress features that match our business model (take a look at Disputo, and BuddyBoss on WordPress)
@@ -75,4 +83,3 @@ Justin only: Make your Github Page look nicer than the default. Research on what
 # 07/25/2021:
 
 Justin only: Research on what is a hybrid app?
-
