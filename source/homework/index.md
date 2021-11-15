@@ -5,6 +5,13 @@ tags:
 ---
 
 
+
+# 11/14/2021:
+
+Chris: write a few blogs, including things like a welcome page, development, and weekly updates
+
+Justin: Implement terms and conditions, and investigate the missing logout button
+
 # 10/31/2021:
 
 Everyone: meet together and figure out some things about our WordPress site. Get it to work and customize it to some basic extent.
