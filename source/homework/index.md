@@ -10,6 +10,8 @@ tags:
 
 Chris and Justin: connect with few of your friends that there is this platform we created to share notes. Get feedback from them before expanding further. Make sure to inform them that the site is still in development. Make sure they get a taste of all the functions of the site, including the Group function, potentially forums, and also have them share notes with each other. The eve of winter break is prime time for sharing, because of many upcoming tests!
 
+Justin: draft a term and conditions and privacy policy; find a template and modify some keywords (ustarlinks.com is a good place for reference, as Danny recommended)
+
 # 11/26/2021:
 
 Post any notes you have! This goes for everyone. We need every last of a notes we have to fill up the empty space.
