@@ -6,11 +6,27 @@ tags:
 
 
 
+# 01/08/2022:
+
+Everyone: 
+
+Gather inspiration for cringe commercials to discuss and come to a definite resolution on a script of the commercial.
+
+Schedule session just us three to discuss some ideas after watching cringe commercials before our next class. We will discuss when this will happen on discord.
+
+Chris: Make an outline of what must be communicated within the commercial regardless of how we present our ad. And also possibly help with generating ideas if you are done.
+
+Justin & Julia: Share work and generate a list of possible ideas and formats for presenting our commercial; remember that there is literally no limit we are restrained by cringe. 
+
+Before next class, have at least a very detailed summary of what the commercial will contain, and what resources we have to gather (equipment, cast) to complete this.
+
 # 12/05/2021:
 
 Chris and Justin: connect with few of your friends that there is this platform we created to share notes. Get feedback from them before expanding further. Make sure to inform them that the site is still in development. Make sure they get a taste of all the functions of the site, including the Group function, potentially forums, and also have them share notes with each other. The eve of winter break is prime time for sharing, because of many upcoming tests!
 
-Justin: draft a term and conditions and privacy policy; find a template and modify some keywords (ustarlinks.com is a good place for reference, as Danny recommended)
+Julia: draft a term and conditions and privacy policy; find a template and modify some keywords (ustarlinks.com is a good place for reference, as Danny recommended)
+
+Justin: register corporate email address with first.last@divvynotes.com
 
 # 11/26/2021:
 
