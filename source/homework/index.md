@@ -4,7 +4,27 @@ date: 2021-09-04 16:01:08
 tags:
 ---
 
+#### As of now, all records have been moved to the discussions page, as linked here: https://divvynotes.github.io/Discussions/
 
+# 01/22/2022:
+
+Chris: Investigate Bluehost options to increase the response time and quality of our website
+
+Someone: redesign our logo
+
+Justin: Make a Divvynotes discord bot
+
+Everyone: ask teachers to get approval for offline advertising (posters, handouts, etc..); use this also as an opportunity for school staff to know about our product
+
+# 01/15/2022:
+
+Justin: Lead the others and coordinate effort in creating our commercial. Decide how we should present it, what format, and gather all necessary equipment and resources before meeting in person and filming the footage.
+
+Someone: add a direct reference to forums on our commercial.
+
+Everyone:
+
+Organize the logistics of the filming of the commercial, such as the cast, the location, and whatever else is needed in preparation of filming.
 
 # 01/08/2022:
 
