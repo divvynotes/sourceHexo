@@ -1,5 +1,6 @@
 <div class="gallery-group-main">
-	{% galleryGroup 'Apr 9th' 'Discussion for Apr 9th' 'Discussions/04-09-2022' https://www.kpsol.com/wp-content/uploads/2017/09/discussion-featured.jpg %}
+	{% galleryGroup 'Apr 23rd' 'Discussion for Apr 23rd' 'Discussions/04-23-2022' https://www.kpsol.com/wp-content/uploads/2017/09/discussion-featured.jpg %}
+    {% galleryGroup 'Apr 9th' 'Discussion for Apr 9th' 'Discussions/04-09-2022' https://www.kpsol.com/wp-content/uploads/2017/09/discussion-featured.jpg %}
     {% galleryGroup 'Mar 26th' 'Discussion for Mar 26th' 'Discussions/03-26-2022' https://www.kpsol.com/wp-content/uploads/2017/09/discussion-featured.jpg %}
     {% galleryGroup 'Mar 19th' 'Discussion for Mar 19th' 'Discussions/03-19-2022' https://www.kpsol.com/wp-content/uploads/2017/09/discussion-featured.jpg %}
     {% galleryGroup 'Mar 12th' 'Discussion for Mar 12th' 'Discussions/03-12-2022' https://www.kpsol.com/wp-content/uploads/2017/09/discussion-featured.jpg %}
